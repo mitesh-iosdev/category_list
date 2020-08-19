@@ -1,0 +1,6 @@
+framework module Pods_Category_List_Demo_Category_List_DemoUITests {
+  umbrella header "Pods-Category List Demo-Category List DemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
